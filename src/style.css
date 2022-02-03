@@ -16,6 +16,18 @@ ul{
     padding:20px;
     margin-bottom:0px;
 }
+#content {
+    float:left;
+    width:70%;  
+    overflow:auto;
+    padding:1%;
+  }
+  #main{
+      display:flex;
+      margin-top:0px;
+      margin-bottom:0px;
+      margin-right:0px;
+  }
 li{
  
     float:left;
